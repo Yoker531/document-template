@@ -1,0 +1,5 @@
+计算机软件文档编制规范GB/T 8567-2006
+https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=84C42B6277D2714B7176B10C6E6B1A44
+
+计算机软件需求规格说明规范GB/T 9385-2008
+https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2790825C43AD0B69E3C38C140BFFCFE6
